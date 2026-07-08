@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0400d1c-8f29-4bef-8e86-80f068a7dc9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Backend/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/CrimeAnalyticsBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/CrimeAnalyticsBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/ChatHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/ChatHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/Crime.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/Crime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/Criminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/Criminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/Officer.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/Officer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/Prediction.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/Prediction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crimeanalytics/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/java/com/crimeanalytics/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crimeanalytics/CrimeAnalyticsBackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/crime-analytics-backend/src/test/java/com/crimeanalytics/CrimeAnalyticsBackendApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vedantsonawane-ngl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yadnyesh2906/crime-analytics-backend.git&quot;,
+    &quot;accountId&quot;: &quot;b9668c66-7d0f-46ca-b499-c27727010f55&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3GEKXruAEkIJFsuyRnha1ExwDWe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VEDANT\OneDrive\Desktop\crime-analytics-backend\Backend\.idea" />
+      <recent name="C:\Users\VEDANT\OneDrive\Desktop\crime-analytics-backend\Backend" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0400d1c-8f29-4bef-8e86-80f068a7dc9f" name="Changes" comment="" />
+      <created>1783531331532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783531331532</updated>
+    </task>
+    <servers />
+  </component>
+</project>
